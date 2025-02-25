@@ -1,0 +1,5 @@
+chromedriver_binary==135.0.7034.0.0
+chromedriver_py==133.0.6943.126
+linkedin_scraper==2.11.5
+Requests==2.32.3
+selenium==4.29.0
